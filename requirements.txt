@@ -78,6 +78,7 @@ psycopg2-binary==2.9.5
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pycparser==2.21
+pydoop==2.0.0
 Pygments==2.14.0
 pyparsing==3.0.9
 pyrsistent==0.19.3
