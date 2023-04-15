@@ -133,3 +133,6 @@ dataset
 
 # Ignore result dataset
 result
+
+# Ignore training model result
+training_results
